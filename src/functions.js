@@ -86,7 +86,7 @@ let [icAnadolu,marmara,karadeniz,[icAnadoluSehirleri]] = [
     [
         ["Ankara","Konya",],
         ["İstanbul","Bursa",],
-        ["Sinop","Trabzon",],
+        ["Sinop","Trabzonn",],
     ]
 ]
 

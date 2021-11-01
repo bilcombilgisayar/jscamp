@@ -1,1 +1,1 @@
-console.log("Merhaba kodlama.io")
+console.log("Merhaba kodlamaa.io")
